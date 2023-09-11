@@ -1,0 +1,15 @@
+table, td, th{
+    text-align: left;
+    border-collapse: collapse;
+    width: 60%;
+}
+th{
+    background-color: #33bd33;
+    color: white;
+}
+.grey{
+    background-color: lightgrey;
+}
+.white{
+    background-color: white;
+}
